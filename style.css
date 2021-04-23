@@ -3,6 +3,16 @@
 #list > button {
   width: 25rem;
   display: block;
+  border: 1px solid #e67803;
+  border-radius: 0.5em;
+  margin-bottom: 0.25em;
+  background-color: #fcf8e5;
+  padding: 0.25em;
+  color: #e67803;
+}
+#list > button.active {
+  background: #e67803;
+  color: #fcf8e5;
 }
 audio {
   width: 25rem;
