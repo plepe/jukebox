@@ -1,8 +1,8 @@
-JUKEBOX
+# JUKEBOX
 
-1. create a data directory.
+1. create a directory named 'data'.
 2. Place all your mp3 files there.
-3. Create a file `playlist.json` in the directory data. Example:
+3. Create a file `playlist.json` in the data directory. Example:
 
 ```json
 [
