@@ -1,0 +1,9 @@
+#list {
+}
+#list > button {
+  width: 25rem;
+  display: block;
+}
+audio {
+  width: 25rem;
+}
